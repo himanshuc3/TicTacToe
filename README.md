@@ -1,5 +1,6 @@
 # TicTacToe
 This is a Tic Tac Toe game clone. My first Android App.
+Minimum API level 21.
 
 ## Pre-Requisites
 
